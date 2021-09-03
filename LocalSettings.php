@@ -54,9 +54,9 @@ $wgEmailAuthentication = true;
 ## Database settings
 $wgDBtype = "mysql";
 $wgDBserver = "";
-$wgDBname = "mediawiki";
-$wgDBuser = "admin";
-$wgDBpassword = "";
+$wgDBname = "default";
+$wgDBuser = "cakephp";
+$wgDBpassword = "cakephp";
 
 # MySQL specific settings
 $wgDBprefix = "";
